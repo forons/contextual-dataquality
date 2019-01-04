@@ -1,6 +1,6 @@
 # Contextual Data-Quality Framework
 
-This repository has just a linking purpose of the different part needed for performing an analysis about the contextual data quality of a dataset.
+This is the repository containing the notions for performing an analysis about the contextual data quality of a dataset.
 
 Hence, in this repository, we showcase the usage of the framework through some bash scripts, which actually perform the following steps.
 
